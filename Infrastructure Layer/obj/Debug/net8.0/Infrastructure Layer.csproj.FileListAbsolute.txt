@@ -1,0 +1,34 @@
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\Infrastructure Layer.deps.json
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\Infrastructure Layer.dll
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\Infrastructure Layer.pdb
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\ApplicstionLayers.dll
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\DomainLayers.dll
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\ApplicstionLayers.pdb
+C:\Users\AbdMo\Infrastructure Layer\bin\Debug\net8.0\DomainLayers.pdb
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.csproj.AssemblyReference.cache
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.AssemblyInfoInputs.cache
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.AssemblyInfo.cs
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.csproj.CoreCompileInputs.cache
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastr.E4F4A019.Up2Date
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.dll
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\refint\Infrastructure Layer.dll
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.pdb
+C:\Users\AbdMo\Infrastructure Layer\obj\Debug\net8.0\ref\Infrastructure Layer.dll
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\Infrastructure Layer.deps.json
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\Infrastructure Layer.dll
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\Infrastructure Layer.pdb
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\ApplicstionLayers.dll
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\DomainLayers.dll
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\ApplicstionLayers.pdb
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\bin\Debug\net8.0\DomainLayers.pdb
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.csproj.AssemblyReference.cache
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.AssemblyInfoInputs.cache
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.AssemblyInfo.cs
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.csproj.CoreCompileInputs.cache
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastr.E4F4A019.Up2Date
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.dll
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\refint\Infrastructure Layer.dll
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\Infrastructure Layer.pdb
+C:\Users\AbdMo\UppgiftApi\Infrastructure Layer\obj\Debug\net8.0\ref\Infrastructure Layer.dll
