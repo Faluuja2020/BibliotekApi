@@ -7,7 +7,7 @@ namespace Domain.Entities
     {
         public Guid Id { get; set; }
         public string Name { get; set; }
-        public ICollection<Book> Books { get; set; } // Navigation property
+        public ICollection<Book> Books { get; set; } 
 
         public Author()
         {

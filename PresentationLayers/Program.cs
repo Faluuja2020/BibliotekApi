@@ -51,7 +51,7 @@ using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     var context = services.GetRequiredService<FakeDbContext>();
-    FakeDbContext.Seed(context); // Ensure this method exists and is implemented correctly
+    FakeDbContext.CreateInMemoryDb(); // Ensure this method exists and is implemented correctly
 }
 
 // Enable middleware

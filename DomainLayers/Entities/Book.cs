@@ -8,12 +8,10 @@ namespace Domain.Entities
         public Guid Id { get; set; }
         public string Title { get; set; }
         public Guid AuthorId { get; set; }
-        public Author Author { get; set; } // Navigation property
-
-        // Parameterless constructor for EF Core
+        public Author Author { get; set; } 
         public Book() { }
 
-        // Constructor to enforce immutability and valid state
+        
         public Book(Guid id, string title, Guid authorId)
         {
             Id = id;
